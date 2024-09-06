@@ -41,7 +41,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #fff;
+    color: #070707;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
@@ -79,19 +79,19 @@ nav ul li a:hover{
 }
 
 h1{
-    color: #fff;
+    color: #0a0a0a;
     margin: 20px 0px 20px;
     font-size: 75px;
 }
 
 h4{
-    color: #fcfc;
+    color: #(8, 8, 8, 0.8);
     letter-spacing: 2px;
     font-size: 20px;
 }
 
 h3{
-    color: #fff;
+    color: #0a0a0a;
     font-size: 25px;
     margin-bottom: 50px;
 }
